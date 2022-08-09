@@ -1,0 +1,11 @@
+1- The need for GitHub?
+
+Developers need a web/cloud based code hosting
+
+Hosting platform that is Useful for version control
+
+Enables effective collaborations
+
+Allows to download projects and files
+
+Allows to evaluate each other work

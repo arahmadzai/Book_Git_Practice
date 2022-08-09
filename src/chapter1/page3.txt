@@ -1,0 +1,12 @@
+
+3. What is GitHub?
+
+Web/cloud based Git repository hosting service
+
+Easy management of code
+
+Open Source Software for version control
+
+Effective collaboration
+
+Bug Tracker
