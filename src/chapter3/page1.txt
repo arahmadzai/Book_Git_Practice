@@ -1,0 +1,5 @@
+7 - Commit
+
+    Records changes to one or more files in your branch
+
+    Git assigns each commit a unique ID, called SHA or hash, that identifies: the specific change
