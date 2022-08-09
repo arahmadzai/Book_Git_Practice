@@ -1,0 +1,7 @@
+6 - Branches?
+
+    Branches allow you to work on other features.
+    They can be included to the main line of your project.
+
+    The main branch is the one where all the changes will eventually get merged back into,
+    it's called the master branch

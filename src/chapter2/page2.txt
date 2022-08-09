@@ -1,0 +1,6 @@
+5 - What is Repository?
+
+    Repository is a folder/storage space for your project
+    GitHub is a very popular central repository platform that allows you to share your codes/files
+    Allows you to push your local repository (Git) and share it with other collaborators via the central
+    repository.
